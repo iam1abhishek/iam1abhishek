@@ -75,8 +75,6 @@
   <img src="https://profile-counter.glitch.me/iam1abhishek/count.svg?"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/iam1abhishek/iam1abhishek/output/snake.svg" alt="Snake animation" />
 
 ###
