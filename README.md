@@ -1,8 +1,12 @@
 ### Hi, Abhishek Singh here 👋 
-<!-- Here are some ideas to get you started: 
--🔭 I’m currently working on SQL - 
--🌱 I’m currently learning SQL, Power BI, Machine Learning 
-- 👯 I’m looking to collaborate on data analytics 
+🌱 I’ve very Strong grasp on Excel, SQL, Power BI, Python and  Machine Learning. 
+
+👯 I’m looking to collaborate on: <br>
+Data Analytics/
+Data Science.
+<!-- Here are some ideas to get you started:  
+-🌱 I’ve very Strong grasp on Excel, SQL, Power BI, Python and  Machine Learning. 
+- 👯 I’m looking to collaborate on data analytics as well as data science.
 - 🤔 I’m looking for help with
 - 💬 Ask me about data analytics, python developer 
 - 📫 How to reach me: everywhere 
@@ -39,6 +43,9 @@
 ###
 
 <div align="left">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="40" alt="microsoft excel logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="power bi logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -58,7 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Excel/Excel-original.svg" height="40" alt="Excel logo"  />
+  
 
   
 </div>
@@ -67,12 +74,3 @@
 
 
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/iam1abhishek/count.svg?"  />
-</div>
-
-
-
-###
