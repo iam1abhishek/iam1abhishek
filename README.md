@@ -1,5 +1,3 @@
-
-
 ### Hi, Abhishek Singh here 👋 
 <!-- Here are some ideas to get you started: 
 -🔭 I’m currently working on SQL - 
@@ -60,6 +58,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Excel/Excel-original.svg" height="40" alt="Excel logo"  />
+
+  
 </div>
 
 ###
